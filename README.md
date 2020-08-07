@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ngadiyar93/ngadiyar93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I am a graduate student pursuing PhD with the Wisconsin Electric Machines and Power Electronics Consortium (WEMPEC) at UW-Madison.
 
-Here are some ideas to get you started:
+My research focuses on electric machine design and optimization along with power electronics and control. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I currently work on Off-Highway vehicle electrification :tractor: and a list of my publications :books: can be found [here](https://scholar.google.com/citations?hl=en&user=CPd0z5gAAAAJ)
+
+Note: Officially, I only have one name (Nishanth) which causes my name to appear as FNU Nishanth across systems in the US (FNU stands for First Name Unknown). I prefer being called Nishanth and not FNU :smile:  
+
+## Open-Source Projects
+Electric machine modeling framework (eMach)
+I am one of the contributors to eMach where I focus on interfacing Infolytica MagNet with Matlab. More info [here](https://github.com/Severson-Group/eMach) 
+
