@@ -10,10 +10,10 @@ I currently work on Off-Highway vehicle electrification :tractor: and a list of 
 __Note:__ Officially, I only have one name (Nishanth) which causes my name to appear as FNU Nishanth across systems in the USA where first name and last name are mandatory (FNU stands for First Name Unknown). So, I prefer being called Nishanth and not FNU :smile:
 
 ### Open-Source Projects
-- Electric machine modeling framework (eMach)
+- __Electric machine modeling framework (eMach):__
 I am one of the contributors to eMach where I focus on interfacing Infolytica MagNet with Matlab. More info [here](https://github.com/Severson-Group/eMach) 
 
-- Matlab to LT Spice (Matlab2LTSpice)
+- __Matlab to LT Spice (Matlab2LTSpice):__
 This repository is a result of constant discussions with Sangwhee Lee, a fellow graduate student at WEMPEC.
 I am the lead developer on this project which aims to link Matlab to LT spice to automate spice solves and (in future) go towards parasitic extraction and PCB layout optimization.
 More info [here](https://github.com/ngadiyar93/Matlab2LTSpice). 
