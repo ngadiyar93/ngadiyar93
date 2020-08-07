@@ -10,6 +10,7 @@ I currently work on Off-Highway vehicle electrification :tractor: and a list of 
 __Note:__ Officially, I only have one name (Nishanth) which causes my name to appear as FNU Nishanth across systems in the USA where first name and last name are mandatory (FNU stands for First Name Unknown). So, I prefer being called Nishanth and not FNU :smile:
 
 ### Open-Source Projects
-Electric machine modeling framework (eMach)
+- Electric machine modeling framework (eMach)
+
 I am one of the contributors to eMach where I focus on interfacing Infolytica MagNet with Matlab. More info [here](https://github.com/Severson-Group/eMach) 
 
