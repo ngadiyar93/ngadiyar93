@@ -14,6 +14,7 @@ __Note:__ Officially, I only have one name (Nishanth) which causes my name to ap
 I am one of the contributors to eMach where I focus on interfacing Infolytica MagNet with Matlab. More info [here](https://github.com/Severson-Group/eMach) 
 
 - Matlab to LT Spice (Matlab2LTSpice)
+This repository is a result of constant discussions with Sangwhee Lee, a fellow graduate student at WEMPEC.
 I am the lead developer on this project which aims to link Matlab to LT spice to automate spice solves and (in future) go towards parasitic extraction and PCB layout optimization.
-More infor [here](https://github.com/ngadiyar93/Matlab2LTSpice). This repository is a result of constant discussions with Sangwhee Lee, a fellow graduate student at WEMPEC.
+More info [here](https://github.com/ngadiyar93/Matlab2LTSpice). 
 
