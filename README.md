@@ -16,8 +16,8 @@ I am one of the contributors to eMach where I focus on interfacing Infolytica Ma
 - __Matlab to LT Spice (Matlab2LTSpice):__
 This repository is a result of interesting discussions with Sangwhee Lee, a fellow graduate student at WEMPEC over the course of three semesters.
 I am the lead developer on this project which aims to link Matlab to LT spice to automate spice solves and (in future) go towards parasitic extraction and PCB layout optimization.
-More info [here](https://github.com/ngadiyar93/Matlab2LTSpice). 
+More info [here](https://github.com/ngadiyar93/Matlab2LTSpice).
 
--__Inductor Optimization (upcoming in Fall 2020):__ 
+- __Inductor Optimization (upcoming in Fall 2020):__ 
 Optimizing an inductor is very critical for power electronic applications. However, compared to motor optimization, the design space is quite constrained due to limited core geometry available. As a part of an independent study I did in Spring 2020, I have been working with Sangwhee Lee and Feida Chen in developing an inductor optimization framework. This is an upcoming project and will be updated soon. Stay tuned!
 
