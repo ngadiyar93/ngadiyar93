@@ -7,7 +7,7 @@ My research focuses on electric machine design and optimization along with power
 
 I currently work on Off-Highway vehicle electrification :tractor: and a list of my publications :books: can be found [here](https://scholar.google.com/citations?hl=en&user=CPd0z5gAAAAJ)
 
-__Note:__ Officially, I only have one name (Nishanth) which causes my name to appear as FNU Nishanth across systems in the US (FNU stands for First Name Unknown). I prefer being called Nishanth and not FNU :smile:
+__Note:__ Officially, I only have one name (Nishanth) which causes my name to appear as FNU Nishanth across systems in the USA where first name and last name are mandatory (FNU stands for First Name Unknown). So, I prefer being called Nishanth and not FNU :smile:
 
 ### Open-Source Projects
 Electric machine modeling framework (eMach)
