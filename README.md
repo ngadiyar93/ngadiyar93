@@ -11,12 +11,11 @@ __Note:__ Officially, I only have one name (Nishanth) which causes my name to ap
 
 ### Open-Source Projects
 - __Electric machine modeling framework ([eMach](https://github.com/Severson-Group/eMach)):__
-I am one of the developers of eMach where I focus on interfacing Infolytica MagNet with Matlab. More info [here](https://github.com/Severson-Group/eMach) 
+I am one of the developers of eMach where I focus on interfacing Infolytica MagNet with Matlab. eMach was successfully used with Matlab's GA toolbox to optimize axial flux machines for my research.
 
 - __Matlab to LT Spice ([Matlab2LTSpice](https://github.com/ngadiyar93/Matlab2LTSpice)):__
 This repository is a result of interesting discussions with Sangwhee Lee, a fellow graduate student at WEMPEC over the course of three semesters.
 I am the lead developer on this project which aims to link Matlab to LT spice to automate spice solves and (in future) go towards parasitic extraction and PCB layout optimization.
-More info [here](https://github.com/ngadiyar93/Matlab2LTSpice).
 
 - __Inductor Optimization (work in progress):__ 
 Optimizing an inductor is very critical for power electronic applications. However, compared to motor optimization, the design space is quite constrained due to limited core geometry available. As an extension to an independent study I did in Spring 2020, I have been working with Sangwhee Lee in developing an inductor optimization framework. This is currently being tested and will be updated soon. Stay tuned!
