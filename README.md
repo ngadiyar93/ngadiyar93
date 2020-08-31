@@ -17,6 +17,6 @@ I am one of the developers of eMach where I focus on interfacing Infolytica MagN
 This repository is a result of interesting discussions with Sangwhee Lee, a fellow graduate student at WEMPEC over the course of three semesters.
 I am the lead developer on this project which aims to link Matlab to LT spice to automate spice solves and (in future) go towards parasitic extraction and PCB layout optimization.
 
-- __Inductor Optimization (work in progress):__ 
-Optimizing an inductor is very critical for power electronic applications. However, compared to motor optimization, the design space is quite constrained due to limited core geometry available. As an extension to an independent study I did in Spring 2020, I have been working with Sangwhee Lee in developing an inductor optimization framework. This is currently being tested and will be updated soon. Stay tuned!
+- __Inductor Optimization ([InductorOptimizer](https://github.com/ngadiyar93/InductorOptimizer)):__ 
+Optimizing an inductor is very critical for power electronic applications. However, compared to motor optimization, the design space is quite constrained due to limited core geometry available. As an extension to an independent study I did in Spring 2020, I have been working with a fellow graduate student (Sangwhee Lee) in developing an inductor optimization framework. The beta release is available and is currently being tested. A release will be updated soon. Stay tuned!
 
