@@ -13,7 +13,7 @@ If you want to know more about me, consider visiting my website [here](https://n
 
 ### Open-Source Projects
 - __Electric machine modeling framework ([eMach](https://github.com/Severson-Group/eMach)):__
-I am one of the developers of eMach where I focus on interfacing Infolytica MagNet and JMAG with Matlab. eMach was successfully used with Matlab's GA toolbox to optimize axial flux machines for my research.
+I am one of the developers of eMach where I focus on interfacing SimCenter MAGNET and JMAG with Matlab, and a lot of documentation. eMach was successfully used with Matlab's GA toolbox to optimize axial flux machines for my research.
 
 - __Matlab to LT Spice ([Matlab2LTSpice](https://github.com/ngadiyar93/Matlab2LTSpice)):__
 This repository is a result of interesting discussions with Sangwhee Lee, a fellow graduate student at WEMPEC over the course of three semesters.
@@ -22,3 +22,5 @@ I am the lead developer on this project which aims to link Matlab to LT spice to
 - __Inductor Optimization ([InductorOptimizer](https://github.com/ngadiyar93/InductorOptimizer)):__ 
 Optimizing an inductor is very critical for power electronic applications. However, compared to motor optimization, the design space is quite constrained due to limited core geometry available. As an extension to an independent study I did in Spring 2020, I have been working with a fellow graduate student (Sangwhee Lee) in developing an inductor optimization framework. The beta release is available and is currently being tested. A stable release will be updated soon. Stay tuned!
 
+- __Advanced Motor Drive Sensing System ([AMDS](https://github.com/Severson-Group/AMDS)):__
+The AMDS is a hardware platform for sensing parameters such as currents and voltages in power electronic systems. The platform includes: i) sensor cards to measure low voltage, high voltage, and currents; ii) a mainboard that serves as a carrier board for upto 8 sensor cards iii) SPI interface between the sensor cards and the mainboard, and iv) robust differential IO communication to transmit sensor data to an external controller. I am one of the contributors to this project.
