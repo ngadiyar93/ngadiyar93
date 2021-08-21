@@ -13,7 +13,7 @@ If you want to know more about me, consider visiting my website [here](https://n
 
 ### Open-Source Projects
 - __Electric machine modeling framework ([eMach](https://github.com/Severson-Group/eMach)):__
-I am one of the core developers since the inception of eMach. I focus on interfacing SimCenter MAGNET and JSOL JMAG with Matlab, and a lot of documentation. eMach was successfully used with Matlab's GA toolbox to optimize axial flux machines for my research.
+I am one of the core developers since the inception of eMach in 2019. I focus on interfacing SimCenter MAGNET and JSOL JMAG with Matlab, and a lot of documentation. eMach was successfully used with Matlab's GA toolbox to optimize axial flux machines for my research.
 
 - __Matlab to LT Spice ([Matlab2LTSpice](https://github.com/ngadiyar93/Matlab2LTSpice)):__
 This repository is a result of interesting discussions with Sangwhee Lee, a fellow graduate student at WEMPEC over the course of three semesters.
