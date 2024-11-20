@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### About me
-I am a Distinguished Staff Fellow and Staff member at the Oak Ridge National Laboratory.
+I am a Distinguished Staff Fellow and research staff member at the Oak Ridge National Laboratory.
 
 My research focuses on electric machine design and multi-physics optimization along with power electronics and control. 
 
